@@ -1,0 +1,16 @@
+{
+	"general.requiredImage": "image is required",
+	"general.requiredAudio": "audio is required",
+	"order.status.pending": "{clientName} had requested an order",
+	"order.status.accepted": "{deliveryGuyName} accepted your order",
+	"order.status.refused": "{deliveryGuyName} refused your order",
+	"order.status.ontheway": "{deliveryGuyName} confirmed that he is on the way to you",
+	"order.status.delivered": "{clientName} confirmed that his order is delivered",
+	"order.status.cancelledByClient": "{clientName} cancelled your order",
+	"order.status.cancelledByDeliveryGuy": "{deliveryGuyName} cancelled your order",
+	"bidOrder.notification": "there is a new order! review it now",
+	"bidOrder.newOffer": "{name} created a new offer",
+	"bidOrder.updatedOffer": "{name} updated the offer",
+	"bidOrder.acceptedOffer": "{name} accepted your offer",
+	"instanOrder.notification": "you have a new instant order"
+}

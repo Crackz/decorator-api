@@ -1,0 +1,18 @@
+{
+	"general.requiredImage": "الصورة مطلوبة",
+	"general.requiredAudio": "ملف الفيديو مطلوب",
+	"order.status.pending": "لقد قام {clientName} بعمل اوردر لك",
+	"order.status.accepted": "لقد قام {deliveryGuyName} بقبول الاوردر",
+	"order.status.refused": "لقد قام {deliveryGuyName} برفض الاوردر",
+	"order.status.ontheway": "لقد قام {deliveryGuyName} بتاكيد توجهه اليك",
+	"order.status.delivered": "لقد قام {clientName} بتاكيد وصول الاوردر اليه",
+	"order.status.cancelledByClient": "لقد قام {clientName} بالغاء الاوردر",
+	"order.status.cancelledByDeliveryGuy": "لقد قام {deliveryGuyName} بالغاء الاوردر",
+
+	"bidOrder.notification": "هناك طلب جديد قم بمراجعته الان",
+	"bidOrder.newOffer": "لقد قام ${deliveryGuyName} بتقديم عرض",
+	"bidOrder.updatedOffer": "لقد قام {name} بتحديث العرض",
+	"bidOrder.acceptedOffer": "لقد قام {name} بقبول عرضك",
+
+	"instanOrder.notification": "لديك طلب فورى الان"
+}
